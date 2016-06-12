@@ -1,0 +1,28 @@
+name: KariMatthews
+favicon: null
+layout_spectrum: 0.31046808208338916
+typography_spectrum: 0.6924078136216849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.022631819592788815
+  lightness: 0.18747803033329546
+  saturation: 0.08100883918814361
+  rhythmicContrast: 0.3671265933662653
+purpose: []
